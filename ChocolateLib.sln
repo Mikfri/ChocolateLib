@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateLib", "ChocolateLib\ChocolateLib.csproj", "{0A3C3D6D-66FA-4785-8132-B8B43F344B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MST_EasterEgg", "MST_EasterEgg\MST_EasterEgg.csproj", "{D8DBEADC-BECC-484E-A24C-CB3F80520463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3C3D6D-66FA-4785-8132-B8B43F344B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3C3D6D-66FA-4785-8132-B8B43F344B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3C3D6D-66FA-4785-8132-B8B43F344B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3C3D6D-66FA-4785-8132-B8B43F344B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DBEADC-BECC-484E-A24C-CB3F80520463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DBEADC-BECC-484E-A24C-CB3F80520463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DBEADC-BECC-484E-A24C-CB3F80520463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DBEADC-BECC-484E-A24C-CB3F80520463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7DAC8F-826F-4EEE-9E3F-CA52D53D5416}
+	EndGlobalSection
+EndGlobal
